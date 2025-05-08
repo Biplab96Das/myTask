@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Task Manager",
+  "description": "A responsive AngularJS-based task manager.",
+  "version": "1.0",
+  "permissions": ["tabs"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_icon": "stack.png",
+    "default_title": "Open Task Manager"
+  },
+  "icons": {
+    "128": "stack.png"
+  }
+}
