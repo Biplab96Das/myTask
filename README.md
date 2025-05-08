@@ -17,11 +17,3 @@
 3. Enable **Developer Mode**
 4. Click **Load unpacked** and select the `MyTask` folder
 
-## Screenshots
-
-_(Add screenshots here if you want)_
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
