@@ -17,3 +17,9 @@
 3. Enable **Developer Mode**
 4. Click **Load unpacked** and select the `MyTask` folder
 
+![Task-Manager](https://github.com/user-attachments/assets/310dbdb7-4380-4d76-9547-139f35a11a5d)
+
+![task](https://github.com/user-attachments/assets/46bceb06-d089-4d97-8cb9-ce80157c7cf4)
+
+![2](https://github.com/user-attachments/assets/b7fa33dd-edd7-4a85-8068-e4fd163142d1)
+
